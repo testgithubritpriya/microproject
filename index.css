@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.b-container{
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.top-container{
+    height: 70vh;
+    width: 100%;
+    background-color:#FFCD9E;
+    display: flex;
+    flex-direction: row;
+}
+.content{
+    padding: 10%;
+    margin-left: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family:sans-serif;
+}
+
+.heading{
+    padding-bottom: 20px;
+    font-size: 38px;
+
+}
+
+
+
+.left-container{    
+    height: 100%;
+    width: 50%;
+}
+
+.right-container{
+    height: 100%;
+    width: 50%;
+}
+
+.image1{
+    height: 100%;
+    padding-left: 20%;
+   
+    justify-content: center;
+}
+
+
+body{
+    width: 100%;
+}
+
+
+.footer{
+    background-color: #282828;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #FFFFFF;
+    height: 30vh;
+    font-family: sans-serif;
+    
+
+    
+   
+
+}
+.paragraph{
+    margin: 0;
+    display: inline-block;
+    padding: 0;
+    line-height: 30px;
+    padding-bottom: 20px;
+    font-size: 22px;
+   
+}
+.h4{
+    line-height: 20px;
+    padding-bottom: 25px;
+    
+}
+
+.box{
+    border: 3px solid #282828;
+    border-radius: 3px;
+    width: 280px;
+    height: 50px;
+    padding: 10px;
+    font-family: sans-serif;
+}
+.button{
+    background-color: #282828;
+    color: #FFFFFF;
+    width: 200px;
+    height: 50px;
+    border-radius: 3px;
+    margin-top: 0px;
+    font-family: sans-serif;
+    margin-left: 8px;
+}
+.image{
+    
+    margin-top: 0;
+    width: 50vw;
+    height: 50vh;
+    
+}
+
+.para{
+    padding-top: 20px;
+    font-size: 16px;
+    margin-left: 15px;
+    margin-top: 0px;
+    color: #FFFFFF;
+    font-family: sans-serif
+    
+}
+.ul{
+    list-style: none;
+    line-height: 25px;
+    
+}
+.ul1{
+    list-style: none;
+    line-height: 25px;
+    
+
+}
+
+.left{
+   
+    margin-left: 100px;
+    margin-top: 25px;
+   
+}
+
+.right{
+    
+    margin-right: 250px;
+    margin-top: 25px;
+    text-align: right;
+}
+
